@@ -1,0 +1,13 @@
+/* GENERAL SETTINGS */
+
+.ms_back-jumbo{
+    background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/jumbo-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ms_back-jumbo2{
+    background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/it-takes-two-hero-banner-desktop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
