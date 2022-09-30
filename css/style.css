@@ -1,11 +1,9 @@
 /* GENERAL SETTINGS */
 
 /* Setting Navabar  */
-
 .btn-secondary{
     background-color: #363636;
 }
-
 
 /* Setting Jumbo */
 .ms_mtop290{
@@ -23,11 +21,7 @@
     background-color: #CD3D0F;
 }
 
-
-
-
 /* Setting second jumbo  */
-
 .ms_back-jumbo2{
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
     background-repeat: no-repeat;
@@ -48,23 +42,15 @@ footer li a{
     text-decoration: none;
 }
 
-
-
-
-
-
-
 /* Utiliy  */
 
 .ms_f-xxlarge{
     font-size: xx-large;
 }
 
-
 .ms_f-xxxlarge{
     font-size: xxx-large;
 }
-
 
 .ms_f-small{
     font-size: small;
@@ -94,11 +80,11 @@ footer li a{
     background-color: #00439C;
 }
 
+/* MEDIA QUERY SETTINGS  */
 
 @media screen and (max-width:992px) {
 
     /* Setting navbar  */
-
 .ms_d-none{
     display: none;
 }
