@@ -43,6 +43,16 @@
     color: #161C3B;
 }
 
+footer li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
 
 /* Utiliy  */
 
@@ -80,6 +90,9 @@
     width: 120px;
 }
 
+.ms_back-00439C{
+    background-color: #00439C;
+}
 
 
 @media screen and (max-width:992px) {
