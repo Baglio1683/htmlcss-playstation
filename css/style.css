@@ -8,15 +8,9 @@
 
 
 /* Setting Jumbo */
-
-.ms-dowm{
-    z-index: -1;
-}
-
 .ms_mtop290{
     margin-top: 290px;
 }
-
 
 .ms_back-jumbo{
     background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/jumbo-bg.png');
@@ -24,6 +18,17 @@
     background-size: cover;
     background-position: center;
 }
+
+.ms_back-CD3D0F{
+    background-color: #CD3D0F;
+}
+
+.ms_wid-120{
+    width: 120px;;
+}
+
+
+/* Setting second jumbo  */
 
 .ms_back-jumbo2{
     background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/it-takes-two-hero-banner-desktop.jpg');
@@ -38,9 +43,29 @@
 
 
 
+/* Utiliy  */
+
+.ms_f-xxlarge{
+    font-size: xx-large;
+}
 
 
+.ms_f-xxxlarge{
+    font-size: xxx-large;
+}
 
+
+.ms_f-small{
+    font-size: small;
+}
+
+.ms_f-large{
+    font-size: large;
+}
+
+.ms_back-1F1F1F{
+    background-color: #1F1F1F;
+}
 
 
 
