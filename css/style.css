@@ -80,6 +80,20 @@ footer li a{
     background-color: #00439C;
 }
 
+.ms_btn-black-border:hover{
+    border: 1px solid black;
+    
+}
+
+a:hover.ms_btn-black-border{
+    box-shadow: 0px 0px 4px 7px black inset;
+}
+
+.ms_card-up:hover{
+    transform: translateY(-13px);
+}
+
+
 /* MEDIA QUERY SETTINGS  */
 
 @media screen and (max-width:992px) {
@@ -89,4 +103,9 @@ footer li a{
     display: none;
 }
 
+.ms_f-smallq{
+    font-size: small;
 }
+
+}
+
