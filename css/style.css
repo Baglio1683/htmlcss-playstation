@@ -13,7 +13,7 @@
 }
 
 .ms_back-jumbo{
-    background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/jumbo-bg.png');
+    background-image: url('../img/jumbo-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -23,15 +23,13 @@
     background-color: #CD3D0F;
 }
 
-.ms_wid-120{
-    width: 120px;;
-}
+
 
 
 /* Setting second jumbo  */
 
 .ms_back-jumbo2{
-    background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/it-takes-two-hero-banner-desktop.jpg');
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -41,6 +39,9 @@
     background-color: #161C3B;
 }
 
+.ms_f-161C3B{
+    color: #161C3B;
+}
 
 
 /* Utiliy  */
@@ -67,7 +68,17 @@
     background-color: #1F1F1F;
 }
 
+.ms_back-BEBCBB{
+    background-color: #BEBCBB;
+}
 
+.ms_back-D9DADC{
+    background-color: #D9DADC;
+}
+
+.ms_wid-120{
+    width: 120px;
+}
 
 
 
