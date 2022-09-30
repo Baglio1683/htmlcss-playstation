@@ -1,17 +1,57 @@
 /* GENERAL SETTINGS */
 
+/* Setting Navabar  */
+
+.btn-secondary{
+    background-color: #363636;
+}
+
+
+/* Setting Jumbo */
+
+.ms-dowm{
+    z-index: -1;
+}
+
+.ms_mtop290{
+    margin-top: 290px;
+}
+
+
 .ms_back-jumbo{
     background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/jumbo-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .ms_back-jumbo2{
     background-image: url('/C:/BOOLEAN/htmlcss-playstation/img/it-takes-two-hero-banner-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .back-playplus{
     background-color: #161C3B;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:992px) {
+
+    /* Setting navbar  */
+
+.ms_d-none{
+    display: none;
+}
+
 }
